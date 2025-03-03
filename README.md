@@ -157,7 +157,9 @@ dataset.to_lmfao(out_dir='output/lmfao', target='rating', join_order=join_order)
 Contributions are welcome! Submit a **pull request** or open an **issue**.
 
 ## **License**
-OpenDBML is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+All rights reserved. This project is private and proprietary.
+Unauthorized copying, distribution, or modification is prohibited.
+For access, contact praptimaitra@gmail.com.
 
 ---
 
